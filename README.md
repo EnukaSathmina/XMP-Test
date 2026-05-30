@@ -1,4 +1,2 @@
 # XMP-Test
 test
-
-
